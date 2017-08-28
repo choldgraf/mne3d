@@ -1,0 +1,8 @@
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - ipyvolume
+  - nibabel
+  - pip:
+    - mne
